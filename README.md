@@ -1,9 +1,9 @@
 # Project3
 
-# print all alphabets from a to z by skipping 3 alphabets using do while loop
+# print all alphabets from a to z by skipping 3 alphabets 
 ![A to Z 3 alphabet](https://github.com/utsavibhakhar/C_Language/assets/158564889/a95490cf-18ab-499e-9363-2293e699cf7a)
 
-# Q.4 number is a magic number or not
+# number is a magic number or not
 ![Magic number](https://github.com/utsavibhakhar/C_Language/assets/158564889/01959d80-abc2-4860-9776-42ccf062c964)
 
 # sum of a first and the last digit of a number
